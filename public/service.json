@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1",
+    "department": "Medicine",
+    "doctors": [
+      "Adam Bell",
+      "Martin Gill",
+      "Johnson Marker",
+      "David Andrew",
+      "Marcuse Dell"
+    ],
+    "slots": [
+        "05.00 Pm - 06 Pm",
+        "08.00 Pm - 09 Pm",
+        "09.00 Pm - 10 Pm"
+    ]
+  },
+  {
+    "id": "2",
+    "department": "Surgery",
+    "doctors": [
+      "Aliena Macrose",
+      "Justin Loorey",
+      "Thug Chocoo",
+      "Shene Clerk",
+      "Jerry Martin"
+    ],
+    "slots": [
+        "01.00 Pm - 02 Pm",
+        "04.00 Pm - 05 Pm",
+        "07.00 Pm - 08 Pm"
+    ]
+  },
+  {
+    "id": "3",
+    "department": "Gynecology",
+    "doctors": [
+      "Asha Moni",
+      "Sadia Afrin",
+      "Ramisa Anjum",
+      "Rupa Akther",
+      "Nusrat Jahan"
+    ],
+    "slots": [
+        "02.00 Pm - 03 Pm",
+        "06.00 Pm - 07 Pm",
+        "08.00 Pm - 09 Pm"
+    ]
+  },
+  {
+    "id": "4",
+    "department": "Cardiology",
+    "doctors": [
+      "Adam Jasnon",
+      "Harmic Dowson",
+      "Salter Crose",
+      "Michel Dack"
+    ],
+    "slots": [
+        "09.00 Pm - 10 Pm",
+        "06.00 Pm - 07 Pm",
+        "05.00 Pm - 06 Pm",
+        "03.00 Pm - 04 Pm"
+    ]
+  },
+  {
+    "id": "5",
+    "department": "Neurology",
+    "doctors": [
+      "Alex Star",
+      "Hery John",
+      "Adlater Tress",
+      "Hera Anlond"
+    ],
+    "slots": [
+        "01.00 Pm - 02 Pm",
+        "04.00 Pm - 05 Pm",
+        "07.00 Pm - 08 Pm"
+    ]
+  },
+  {
+    "id": "6",
+    "department": "Urology",
+    "doctors": [
+      "Steven Joss",
+      "Martin Gudle",
+      "James Anderson",
+      "Stuard Ford",
+      "Jeread Rolax"
+    ],
+    "slots": [
+        "09.00 Pm - 10 Pm",
+        "06.00 Pm - 07 Pm",
+        "05.00 Pm - 06 Pm",
+        "03.00 Pm - 04 Pm"
+    ]
+  },
+  {
+    "id": "7",
+    "department": "Gastrology",
+    "doctors": [
+      "Philipe Martin",
+      "Andre Wooks",
+      "Salter Dowson",
+      "Json Roy",
+      "Alex Hales"
+    ],
+    "slots": [
+        "01.00 Pm - 02 Pm",
+        "04.00 Pm - 05 Pm",
+        "07.00 Pm - 08 Pm",
+        "07.30 Pm - 08.30 Pm",
+        "04.00 Pm - 05 Pm"
+    ]
+  },
+  {
+    "id": "8",
+    "department": "Dental",
+    "doctors": [
+      "Arone Adrril",
+      "Michel Starc",
+      "David Warner",
+      "Shone Marsh",
+      "Aldern Jcobe"
+    ],
+    "slots": [
+        "09.00 Pm - 10 Pm",
+        "06.00 Pm - 07 Pm",
+        "05.00 Pm - 06 Pm",
+        "03.00 Pm - 04 Pm"
+    ]
+  },
+  {
+    "id": "9",
+    "department": "Orthopedic",
+    "doctors": [
+      "David Miller",
+      "Dale Cook",
+      "Smith Json",
+      "Steven Jolley"
+    ],
+    "slots": [
+        "01.00 Pm - 02 Pm",
+        "04.00 Pm - 05 Pm",
+        "07.00 Pm - 08 Pm"
+    ]
+  }
+]
