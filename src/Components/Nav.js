@@ -4,8 +4,8 @@ import "./Nav.css"
 
 const Nav = () => {
     return (
-        <div>
-            <div class="navbar bg-base-100">
+        <div className='sticky top-0'>
+            <div class="navbar bg-base-100  z-0">
                 <div class="navbar-start">
                     <div class="dropdown">
                         <label tabindex="0" class="btn btn-ghost lg:hidden">
@@ -23,7 +23,7 @@ const Nav = () => {
 
                         </ul>
                     </div>
-                    <img src="https://i.ibb.co/TqSFXRQ/Screenshot-2022-11-27-000533.jpg"className='w-14 h-14' alt="" />
+                    <img src="https://i.postimg.cc/sfY6zCQX/Screenshot-2023-01-29-141437.jpg"className='w-14 h-14' alt="" />
                 </div>
                 <div class="navbar-center hidden lg:flex">
                     <ul class="menu menu-horizontal justify-items-center">

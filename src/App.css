@@ -6,12 +6,12 @@
   }
   .card{
     height: 20vh;
-    width: 198%;
+    width: 150%;
     margin-top: 95%;
     border-radius: 0%;
   }
   .newslatter form{
-    width: 430px;
+    width: 300px;
     max-width: 120%;
     position: relative;
 }
@@ -38,3 +38,6 @@
     right: 6px;
 
 }
+
+
+

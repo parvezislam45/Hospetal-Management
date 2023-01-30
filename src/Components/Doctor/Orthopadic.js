@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-const Cardiology = () => {
+const Orthopadic = () => {
     return (
         <div>
              <section class="bg-blue-900">
@@ -30,46 +30,46 @@ const Cardiology = () => {
             <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-3 mt-20 gap-y-6">
             <div class="bg-white w-72 h-96 m-3 mx-auto">
                     <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="http://st2.depositphotos.com/5906386/8938/i/450/depositphotos_89385676-beautiful-girl-doctor-in-a-white-coat-examines-X-ray-photo-of-the-patient-to-identify-the-problem.-Professional-conversation-consultation-of-doctors.-The-work-of-the-conference..jpg" alt="piña" />
+                        <img class="w-full h-full object-cover rounded-t" src="https://t4.ftcdn.net/jpg/01/36/18/77/360_F_136187711_qeBMOwkPdTg1dCN8e5TR1AmduXDz60Xn.jpg" alt="piña" />
                     </div>
                     <div class="w-full h-1/4 p-3">
                         <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">John Marshal</span>
+                            <span class="text-lg font-bold uppercase tracking-wide ">Aurthohin Parvez</span>
                         </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Cardiology Surgeon</p>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Neurology Surgeon</p>
+                    </div>
+                </div>
+            <div class="bg-white w-72 h-96 m-3 mx-auto">
+                    <div class="h-3/4 w-full">
+                        <img class="w-full h-full object-cover rounded-t" src="https://previews.123rf.com/images/megaflopp/megaflopp1612/megaflopp161200021/69671076-beautiful-smiling-female-doctor-hold-tablet-pc-and-point-in-touch-screen-with-finger-human-interacti.jpg" alt="piña" />
+                    </div>
+                    <div class="w-full h-1/4 p-3">
+                        <a href="/" class=" hover:text-yellow-600 text-gray-700">
+                            <span class="text-lg font-bold uppercase tracking-wide ">Rishat Ahmed</span>
+                        </a>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Orthopedic Surgeon</p>
                     </div>
                 </div>
                 <div class="bg-white w-72 h-96 m-3 mx-auto">
                     <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="https://st2.depositphotos.com/1518767/6901/i/950/depositphotos_69013841-stock-photo-doctor-thinking-with-hand-on.jpg" alt="piña" />
+                        <img class="w-full h-full object-cover rounded-t" src="https://assets.lybrate.com/img/documents/doctor/dp/b81b3dcbd15b4332b343cb69d52ffd85/ChinthuMadeswaran-c6a205.jpg" alt="piña" />
                     </div>
                     <div class="w-full h-1/4 p-3">
                         <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">Androw Herry</span>
+                            <span class="text-lg font-bold uppercase tracking-wide ">Jolly Drone</span>
                         </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Cardiology Surgeon</p>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Orthopedic Surgeon</p>
                     </div>
                 </div>
                 <div class="bg-white w-72 h-96 m-3 mx-auto">
                     <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Qc_kQ2jdyGXv2U1H8mOv-W3c-algPKORClPBciFXVRhUcDHmkOgyF8PIPycYFAyKRbM&usqp=CAU" alt="piña" />
+                        <img class="w-full h-full object-cover rounded-t" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBHxnMZGjXrxcxpsUPAc7GeGHho5E14WIIhW24RSRsi8U9umF7rBpYCmz8w7h_ARliGM&usqp=CAU" alt="piña" />
                     </div>
                     <div class="w-full h-1/4 p-3">
                         <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">Vinicus Kelly</span>
+                            <span class="text-lg font-bold uppercase tracking-wide ">Asha Moni</span>
                         </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Cardiology Surgeon</p>
-                    </div>
-                </div>
-                <div class="bg-white w-72 h-96 m-3 mx-auto">
-                    <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFh31P-dlC18hiCViojk6l7f6-U7NZTTk7bsmEHQw3pPF4hjoeT4tGT5RgwetmjN-0E_I&usqp=CAU" alt="piña" />
-                    </div>
-                    <div class="w-full h-1/4 p-3">
-                        <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">Carrey Fanandez</span>
-                        </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Cardiology Surgeon</p>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Orthopedic Surgeon</p>
                     </div>
                 </div>
             </div>
@@ -77,4 +77,4 @@ const Cardiology = () => {
     );
 };
 
-export default Cardiology;
+export default Orthopadic;

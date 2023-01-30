@@ -5,21 +5,21 @@ const Carousel = () => {
         <div>
             <div class="carousel w-full">
                 <div id="slide1" class="carousel-item relative w-full">
-                    <img src="https://www.khudiramhospital.com/wp-content/uploads/2022/02/ipd-banner-img4.jpg" class="w-full" alt='' />
+                    <img src="https://i.postimg.cc/G3XqBJJ1/photo-1597764690523-15bea4c581c9.png" class="w-full" alt='' />
                     <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                         <a href="#slide4" class="btn btn-circle">❮</a>
                         <a href="#slide2" class="btn btn-circle">❯</a>
                     </div>
                 </div>
                 <div id="slide2" class="carousel-item relative w-full">
-                    <img src="https://previews.123rf.com/images/chagin/chagin1904/chagin190400097/120594638-portrait-of-happy-successful-female-doctor-horizontal-image-.jpg" class="w-full" alt='' />
+                    <img src="https://i.postimg.cc/q7p3XW4D/photo-1634147070282-40cbdd54670a.png" class="w-full" alt='' />
                     <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                         <a href="#slide1" class="btn btn-circle">❮</a>
                         <a href="#slide3" class="btn btn-circle">❯</a>
                     </div>
                 </div>
                 <div id="slide3" class="carousel-item relative w-full">
-                    <img src="https://www.manipalhospitals.com/oldairportroad/uploads/page-banners/palliative-care-centres-old-airport-road.jpeg" class="w-full" alt='' />
+                    <img src="https://i.postimg.cc/j2nwSb42/photo-1551190822-a9333d879b1f.png" class="w-full" alt='' />
                     <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                         <a href="#slide2" class="btn btn-circle">❮</a>
                         <a href="#slide4" class="btn btn-circle">❯</a>

@@ -18,6 +18,7 @@ const Neurology = () => {
             <nav class="bg-white">
                 <div class="container flex items-center justify-center p-6 mx-auto text-black capitalize">
                     <NavLink to="/doctor"><a href="/" class="text-black transition-colors transform dark:text-black border-red-500 sm:mx-6 focus:outline-none focus:border-b-2 focus:border-b-2-violet-300 ease-in duration-300 text-sm font-bold">All Department</a></NavLink>
+                    <NavLink to="/orthopadic"><a href="/" class="text-black transition-colors transform dark:text-black border-red-500 sm:mx-6 focus:outline-none focus:border-b-2 focus:border-b-2-violet-300 ease-in duration-300 text-sm font-bold">Orthopadic</a></NavLink>
                     <NavLink to="/cardiology"><a href="/" class="text-black transition-colors transform dark:text-black border-red-500 sm:mx-6 focus:outline-none focus:border-b-2 focus:border-b-2-violet-300 ease-in duration-300 text-sm font-bold">Cardiology</a></NavLink>
                     <NavLink to="/medicine"><a href="/" class="text-black transition-colors transform dark:text-black border-red-500 sm:mx-6 focus:outline-none focus:border-b-2 focus:border-b-2-violet-300 ease-in duration-300 text-sm font-bold">Medicine</a></NavLink>
                     <NavLink to="/dental"><a href="/" class="text-black transition-colors transform dark:text-black border-red-500 sm:mx-6 focus:outline-none focus:border-b-2 focus:border-b-2-violet-300 ease-in duration-300 text-sm font-bold">Dental</a></NavLink>
@@ -27,48 +28,48 @@ const Neurology = () => {
                 </div>
             </nav>
            <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-3 mt-20 gap-y-6">
-                <div class="bg-white w-72 h-96 m-3">
+           <div class="bg-white w-72 h-96 m-3 mx-auto">
                     <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="https://demo.themefisher.com/novena/images/team/1.jpg" alt="piña" />
+                        <img class="w-full h-full object-cover rounded-t" src="https://watermark.lovepik.com/photo/20211201/large/lovepik-male-doctor-thinking-picture_501367380.jpg" alt="piña" />
                     </div>
                     <div class="w-full h-1/4 p-3">
                         <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">John Marshal</span>
+                            <span class="text-lg font-bold uppercase tracking-wide ">Alex Adam</span>
                         </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Internist, Emergency Physician</p>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Neurology Surgeon</p>
                     </div>
                 </div>
-                <div class="bg-white w-72 h-96 m-3">
+                <div class="bg-white w-72 h-96 m-3 mx-auto">
                     <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="https://demo.themefisher.com/novena/images/team/2.jpg" alt="piña" />
+                        <img class="w-full h-full object-cover rounded-t" src="https://t3.ftcdn.net/jpg/02/25/70/72/360_F_225707294_V0jKFrHm1Bm5mLQjTAhKFplaWQIgdHby.jpg" alt="piña" />
                     </div>
                     <div class="w-full h-1/4 p-3">
                         <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">Marshal Root</span>
+                            <span class="text-lg font-bold uppercase tracking-wide ">Rasel Donald</span>
                         </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Surgeon, Сardiologist</p>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Neurology Surgeon</p>
                     </div>
                 </div>
-                <div class="bg-white w-72 h-96 m-3">
+                <div class="bg-white w-72 h-96 m-3 mx-auto">
                     <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="https://demo.themefisher.com/novena/images/team/3.jpg" alt="piña" />
+                        <img class="w-full h-full object-cover rounded-t" src="https://images.pexels.com/photos/8376152/pexels-photo-8376152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="piña" />
                     </div>
                     <div class="w-full h-1/4 p-3">
                         <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">Siamon john</span>
+                            <span class="text-lg font-bold uppercase tracking-wide ">Wilimson Jenly</span>
                         </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Internist, General Practitioner</p>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Neurology Surgeon</p>
                     </div>
                 </div>
-                <div class="bg-white w-72 h-96 m-3">
+                <div class="bg-white w-72 h-96 m-3 mx-auto">
                     <div class="h-3/4 w-full">
-                        <img class="w-full h-full object-cover rounded-t" src="https://demo.themefisher.com/novena/images/team/4.jpg" alt="piña" />
+                        <img class="w-full h-full object-cover rounded-t" src="https://t4.ftcdn.net/jpg/01/36/18/77/360_F_136187711_qeBMOwkPdTg1dCN8e5TR1AmduXDz60Xn.jpg" alt="piña" />
                     </div>
                     <div class="w-full h-1/4 p-3">
                         <a href="/" class=" hover:text-yellow-600 text-gray-700">
-                            <span class="text-lg font-bold uppercase tracking-wide ">Rishat Ahmed</span>
+                            <span class="text-lg font-bold uppercase tracking-wide ">Aurthohin Parvez</span>
                         </a>
-                        <p class="text-gray-600 text-sm leading-5 mt-1">Orthopedic Surgeon</p>
+                        <p class="text-gray-600 text-sm leading-5 mt-1">Neurology Surgeon</p>
                     </div>
                 </div>
             </div> 

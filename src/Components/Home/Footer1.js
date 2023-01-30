@@ -9,7 +9,7 @@ const Footer1 = () => {
                         <div class="w-full -mx-6 lg:w-2/5">
                             <div class="px-6">
                                 <div>
-                                    <img src="https://i.ibb.co/TqSFXRQ/Screenshot-2022-11-27-000533.jpg"className='w-36 h-28' alt="" />
+                                    <img src="https://i.postimg.cc/sfY6zCQX/Screenshot-2023-01-29-141437.jpg"className='w-36 h-28' alt="" />
                                 </div>
 
                                 <p class="max-w-sm mt-2 text-black">Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>

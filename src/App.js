@@ -10,6 +10,7 @@ import Dental from './Components/Doctor/Dental';
 import Doctor from './Components/Doctor/Doctor';
 import Medicine from './Components/Doctor/Medicine';
 import Neurology from './Components/Doctor/Neurology';
+import Orthopadic from './Components/Doctor/Orthopadic';
 import Pediatric from './Components/Doctor/Pediatric';
 import Tramualogy from './Components/Doctor/Tramualogy';
 import Footer from './Components/Home/Footer';
@@ -37,6 +38,7 @@ function App() {
       <Route path='/cardiology'element={<Cardiology></Cardiology>}></Route>
       <Route path='/pediatric'element={<Pediatric></Pediatric>}></Route>
       <Route path='/traumatology'element={<Tramualogy></Tramualogy>}></Route>
+      <Route path='/orthopadic'element={<Orthopadic></Orthopadic>}></Route>
      </Routes>
      <Footer1></Footer1>
      <Footer></Footer>
